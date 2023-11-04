@@ -1,0 +1,402 @@
+[
+    {
+        "question": "What is federalism?",
+        "answer": "Federalism is a system of government in which power is divided between a central authority and various constituent units of the country."
+    },
+    {
+        "question": "How many levels of government exist in a federation?",
+        "answer": "A federation typically has two levels of government."
+    },
+    {
+        "question": "What are the two levels of government in a federal system?",
+        "answer": "The two levels of government in a federal system are the central government and the state or provincial governments."
+    },
+    {
+        "question": "How does a unitary system differ from a federal system?",
+        "answer": "In a unitary system, there is only one level of government, and sub-units are subordinate to the central government, while in a federal system, there are multiple levels of government with their own powers."
+    },
+    {
+        "question": "What is the primary difference between the central and state governments in a federal system?",
+        "answer": "The central government cannot order the state government in a federal system, and the state government has powers of its own for which it is not answerable to the central government."
+    },
+    {
+        "question": "What are some key features of federalism?",
+        "answer": "Key features of federalism include multiple levels of government, each with its own jurisdiction, constitutional guarantees of authority, checks and balances, and specified revenue sources."
+    },
+    {
+        "question": "Why is the existence of each level of government constitutionally guaranteed in federalism?",
+        "answer": "Constitutional guarantees ensure that each level of government's existence and authority cannot be unilaterally changed by one level of government."
+    },
+    {
+        "question": "How do courts contribute to the practice of federalism?",
+        "answer": "Courts have the power to interpret the constitution and the powers of different levels of government, which helps resolve disputes and maintain the federal structure."
+    },
+    {
+        "question": "What is the role of the \"Concurrent List\" in a federal system?",
+        "answer": "The Concurrent List includes subjects of common interest to both the central and state governments, allowing both levels to make laws on these subjects, with the central government's law prevailing in case of conflict."
+    },
+    {
+        "question": "What are the dual objectives of federalism?",
+        "answer": "The dual objectives of federalism are to safeguard and promote the unity of the country while accommodating regional diversity."
+    },
+    {
+        "question": "What are the two routes through which federations can be formed?",
+        "answer": "Federations can be formed through independent states coming together or a large country deciding to divide its powers between constituent states and the national government."
+    },
+    {
+        "question": "Which route to forming a federation was followed in the USA and Switzerland?",
+        "answer": "The \"coming together\" route was followed in the USA and Switzerland, where independent states came together to form a bigger unit."
+    },
+    {
+        "question": "Which route to forming a federation is followed in India, Spain, and Belgium?",
+        "answer": "The \"holding together\" route is followed in India, Spain, and Belgium, where a large country divides its powers between constituent states and the national government."
+    },
+    {
+        "question": "What makes India a federal country?",
+        "answer": "India is a federal country due to the division of legislative powers between the Union Government and State Governments, as well as the presence of Union, State, and Concurrent Lists in the Constitution."
+    },
+    {
+        "question": "What is the \"Union List\" in India's federal structure?",
+        "answer": "The Union List includes subjects of national importance, such as defense, foreign affairs, banking, communications, and currency, for which the Union Government has exclusive legislative power."
+    },
+    {
+        "question": "What is the \"State List\" in India's federal structure?",
+        "answer": "The State List contains subjects of State and local importance, such as police, trade, commerce, agriculture, and irrigation, for which State Governments have exclusive legislative power."
+    },
+    {
+        "question": "What is the \"Concurrent List\" in India's federal structure?",
+        "answer": "The Concurrent List includes subjects of common interest to both the Union and State Governments, allowing both levels to make laws on these subjects. In case of conflict, the Union Government's law prevails."
+    },
+    {
+        "question": "How do linguistic states contribute to India's federalism?",
+        "answer": "The creation of linguistic states in India enhances federalism by recognizing and accommodating the linguistic diversity of the country."
+    },
+    {
+        "question": "How does India's language policy contribute to federalism?",
+        "answer": "India's language policy recognizes and respects the diverse languages spoken in the country, with Hindi as the official language and 21 other languages recognized as Scheduled Languages."
+    },
+    {
+        "question": "How do Centre-State relations promote federalism in India?",
+        "answer": "Restructuring Centre-State relations in India has strengthened federalism by fostering power-sharing and respect for the autonomy of State Governments, especially in coalition politics."
+    },
+    {
+        "question": "What is decentralization in the context of federalism?",
+        "answer": "Decentralization is the transfer of power from central and state governments to local government bodies, allowing local communities to participate in decision-making."
+    },
+    {
+        "question": "What are the key features of the three-tier system of democracy in India?",
+        "answer": "The three-tier system includes constitutionally mandated local government elections, reserved seats for marginalized groups, and at least one-third reserved for women in elected positions."
+    },
+    {
+        "question": "What is the Panchayati Raj system in India?",
+        "answer": "The Panchayati Raj system is a system of rural local government that includes Gram Panchayats, Panchayat Samitis or Blocks, and Zilla Parishads to manage local governance."
+    },
+    {
+        "question": "How do Gram Panchayats work in India's local government system?",
+        "answer": "Gram Panchayats are the decision-making bodies for individual villages, consisting of elected members who make decisions on local issues. The Gram Sabha provides overall supervision."
+    },
+    {
+        "question": "What are Panchayat Samitis or Blocks in the Panchayati Raj system?",
+        "answer": "Panchayat Samitis or Blocks are groups of Gram Panchayats, and their members are elected by Gram Panchayat members to oversee local governance at a broader level."
+    },
+    {
+        "question": "What is the significance of Zilla Parishads in the Panchayati Raj system?",
+        "answer": "Zilla Parishads consist of members of Lok Sabha, MLAs, and other officials, overseeing the functioning of Panchayat Samitis or Blocks in a district."
+    },
+    {
+        "question": "How does the Panchayati Raj system contribute to India's federal structure?",
+        "answer": "The Panchayati Raj system empowers local communities and ensures decentralized governance, enhancing federalism in India."
+    },
+    {
+        "question": "What is the municipal system in India's local government?",
+        "answer": "Municipalities are local government bodies for urban areas, with Municipal Corporations for large cities, and they are controlled by elected representatives."
+    },
+    {
+        "question": "How do municipalities contribute to local governance in urban areas?",
+        "answer": "Municipalities play a significant role in managing urban areas and providing essential services to the population."
+    },
+    {
+        "question": "What is the constitutional status of local governments in India?",
+        "answer": "Local governments in India have constitutional status, and their empowerment has deepened democracy, increased women's representation, and strengthened federalism in the country."
+    },
+    {
+        "question": "What is the significance of decentralization in India's federal system?",
+        "answer": "Decentralization empowers local government bodies and allows them to address local issues more effectively."
+    },
+    {
+        "question": "How are women's rights promoted in the Indian federal system?",
+        "answer": "Women's representation in local government bodies is constitutionally mandated, with at least one-third of positions reserved for women."
+    },
+    {
+        "question": "What role does the State Election Commission play in India's federal system?",
+        "answer": "State Election Commissions conduct panchayat and municipal elections to ensure the democratic functioning of local government bodies."
+    },
+    {
+        "question": "What is the role of the \"Union List\" in India's federal structure?",
+        "answer": "The \"Union List\" contains subjects of national importance, for which only the Union Government can make laws."
+    },
+    {
+        "question": "What are the key subjects included in the \"State List\" of India's federal structure?",
+        "answer": "The \"State List\" includes subjects of State and local importance, such as police, trade, commerce, agriculture, and irrigation."
+    },
+    {
+        "question": "How do linguistic states contribute to India's unity and diversity?",
+        "answer": "Linguistic states promote unity by recognizing the linguistic diversity of the country and providing representation to linguistic communities."
+    },
+    {
+        "question": "How has coalition politics affected Centre-State relations in India?",
+        "answer": "Coalition politics has led to a culture of power-sharing and respect for State Governments' autonomy in Centre-State relations."
+    },
+    {
+        "question": "What is the significance of seats reserved for marginalized groups in local government?",
+        "answer": "Reserved seats for marginalized groups ensure their representation and participation in local governance."
+    },
+    {
+        "question": "How are rural local governments structured in India?",
+        "answer": "Rural local governments in India consist of Gram Panchayats, Panchayat Samitis, and Zilla Parishads, forming a three-tier system."
+    },
+    {
+        "question": "What is the primary function of Gram Panchayats in rural governance?",
+        "answer": "Gram Panchayats are responsible for decision-making on local issues within individual villages."
+    },
+    {
+        "question": "What is the role of the Gram Sabha in rural governance?",
+        "answer": "The Gram Sabha provides overall supervision and approves the annual budget of the Gram Panchayat."
+    },
+    {
+        "question": "How do Panchayat Samitis or Blocks function in the Panchayati Raj system?",
+        "answer": "Panchayat Samitis or Blocks oversee local governance in groups of Gram Panchayats and have members elected by Gram Panchayat members."
+    },
+    {
+        "question": "What is the role of Zilla Parishads in the Panchayati Raj system?",
+        "answer": "Zilla Parishads oversee the functioning of Panchayat Samitis or Blocks at the district level and include members of Lok Sabha, MLAs, and officials."
+    },
+    {
+        "question": "How does the Panchayati Raj system promote federalism in India?",
+        "answer": "The Panchayati Raj system empowers local communities, enhances local governance, and strengthens federalism by decentralizing power."
+    },
+    {
+        "question": "How are urban local governments organized in India?",
+        "answer": "Urban local governments in India include Municipalities for urban areas, with Municipal Corporations for larger cities."
+    },
+    {
+        "question": "What is the role of elected representatives in urban local governance?",
+        "answer": "Elected representatives, such as the Municipal Chairperson or Mayor, oversee the functioning of urban local governments."
+    },
+    {
+        "question": "How does constitutional status for local government affect democracy in India?",
+        "answer": "Constitutional status for local government has deepened democracy, increased women's representation, and strengthened federalism in India."
+    },
+    {
+        "question": "What is the primary objective of the three-tier system in local governance?",
+        "answer": "The three-tier system aims to decentralize power, ensure local participation, and address issues at the grassroots level."
+    },
+    {
+        "question": "How does federalism in India accommodate regional diversity?",
+        "answer": "Federalism in India allows states to have control over local matters, respecting regional diversity while maintaining national unity."
+    },
+    {
+        "question": "What is the role of the State Election Commission in local government elections?",
+        "answer": "State Election Commissions conduct elections for panchayats and municipalities, ensuring free and fair democratic practices."
+    },
+    {
+        "question": "How is local governance connected to decentralization in India?",
+        "answer": "Local governance is a key element of decentralization, as it transfers power from higher levels of government to local communities."
+    },
+    {
+        "question": "What is the significance of reserving seats for women in local government?",
+        "answer": "Reserving seats for women in local government promotes gender equality and women's participation in decision-making."
+    },
+    {
+        "question": "How are local government elections held in India?",
+        "answer": "Local government elections in India are conducted by State Election Commissions and follow constitutional mandates."
+    },
+    {
+        "question": "How do constitutional provisions ensure the autonomy of State Governments in India?",
+        "answer": "Constitutional provisions specify the division of legislative powers between the Union Government and State Governments, ensuring the autonomy of each level."
+    },
+    {
+        "question": "What are the consequences of the linguistic reorganization of states in India?",
+        "answer": "The linguistic reorganization of states recognized linguistic diversity and promoted the identity and unity of linguistic communities."
+    },
+    {
+        "question": "How does the three-tier system of democracy enhance local governance in India?",
+        "answer": "The three-tier system ensures that local communities have decision-making authority and can address local issues effectively."
+    },
+    {
+        "question": "What are the main subjects included in the \"Concurrent List\" of India's federal structure?",
+        "answer": "The \"Concurrent List\" includes subjects of common interest to both the Union and State Governments, such as education, forest, trade unions, and marriage."
+    },
+    {
+        "question": "How does the \"Concurrent List\" resolve conflicts between laws made by the Union and State Governments?",
+        "answer": "In case of conflicts, the law made by the Union Government on subjects in the Concurrent List prevails over laws made by the State Governments."
+    },
+    {
+        "question": "How do linguistic states contribute to India's federalism?",
+        "answer": "Linguistic states ensure that people who speak the same language have a state to represent their linguistic and cultural interests."
+    },
+    {
+        "question": "How does coalition politics impact Centre-State relations in India?",
+        "answer": "Coalition politics necessitates power-sharing and cooperation between national and regional parties, strengthening the federal structure."
+    },
+    {
+        "question": "What is the constitutional significance of the three-tier system of democracy in India?",
+        "answer": "The three-tier system is constitutionally mandated, ensuring regular elections and reserved seats for marginalized groups and women."
+    },
+    {
+        "question": "What is the importance of Gram Panchayats in the Panchayati Raj system?",
+        "answer": "Gram Panchayats serve as the primary decision-making bodies for individual villages, addressing local issues."
+    },
+    {
+        "question": "What role does the Gram Sabha play in local governance?",
+        "answer": "The Gram Sabha supervises the functioning of the Gram Panchayat and approves its annual budget, allowing community participation."
+    },
+    {
+        "question": "What are Panchayat Samitis or Blocks in the Panchayati Raj system?",
+        "answer": "Panchayat Samitis or Blocks oversee a group of Gram Panchayats and have representatives elected by Gram Panchayat members."
+    },
+    {
+        "question": "How does Zilla Parishad contribute to local governance at the district level?",
+        "answer": "Zilla Parishad supervises Panchayat Samitis and includes members from higher levels of government, enhancing local governance."
+    },
+    {
+        "question": "What are the benefits of constitutional status for local government in India?",
+        "answer": "Constitutional status strengthens local democracy, empowers local communities, and ensures accountability and representation."
+    },
+    {
+        "question": "How does the Panchayati Raj system empower local communities in India?",
+        "answer": "The Panchayati Raj system gives local communities decision-making power, allowing them to address local issues and participate in governance."
+    },
+    {
+        "question": "What is the purpose of holding regular elections for local government bodies in India?",
+        "answer": "Regular elections are essential to maintain the democratic functioning of local government bodies, ensuring representation and accountability."
+    },
+    {
+        "question": "How does the three-tier system promote local participation in governance?",
+        "answer": "The three-tier system decentralizes power, allowing local communities to actively participate in governance and decision-making."
+    },
+    {
+        "question": "What is the impact of the three-tier system on local issues and problem-solving in India?",
+        "answer": "The three-tier system enhances local problem-solving by giving communities decision-making authority over local issues."
+    },
+    {
+        "question": "What is the role of Municipal Corporations in urban governance?",
+        "answer": "Municipal Corporations oversee larger urban areas and play a crucial role in urban governance."
+    },
+    {
+        "question": "How does the three-tier system enhance governance at the grassroots level?",
+        "answer": "The three-tier system ensures governance at the grassroots level, addressing local issues more effectively."
+    },
+    {
+        "question": "What is the constitutional significance of reserving seats for marginalized groups in local government?",
+        "answer": "Constitutional provisions mandate the reservation of seats to ensure the representation of marginalized groups in local governance."
+    },
+    {
+        "question": "How does the Panchayati Raj system benefit rural areas in India?",
+        "answer": "The Panchayati Raj system empowers rural communities, addresses local issues, and promotes development in rural areas."
+    },
+    {
+        "question": "How does the three-tier system in local governance promote local democracy?",
+        "answer": "The three-tier system strengthens local democracy by decentralizing power and increasing community participation."
+    },
+    {
+        "question": "What is the constitutional basis for the Panchayati Raj system in India?",
+        "answer": "The Panchayati Raj system is constitutionally mandated to ensure local governance and representation."
+    },
+    {
+        "question": "What is the significance of the \"State List\" in India's federal structure?",
+        "answer": "The \"State List\" includes subjects of State and local importance, for which State Governments can make laws."
+    },
+    {
+        "question": "How does the three-tier system accommodate regional diversity in India?",
+        "answer": "The three-tier system allows local communities to address regional diversity and tailor governance to their specific needs."
+    },
+    {
+        "question": "How does constitutional status for local government bodies increase women's representation in India?",
+        "answer": "Constitutional status mandates the reservation of seats for women, ensuring their active participation in local governance."
+    },
+    {
+        "question": "How do local government elections contribute to the democratic process in India?",
+        "answer": "Local government elections are an integral part of the democratic process, allowing citizens to choose their representatives at the grassroots level."
+    },
+    {
+        "question": "What is the role of elected Municipal Chairs in urban local governance?",
+        "answer": "Elected Municipal Chairs, also known as Mayors, provide political leadership and oversight in urban local governance."
+    },
+    {
+        "question": "How does the three-fold distribution of legislative powers promote federalism in India?",
+        "answer": "The distribution of powers between Union Government and State Governments ensures federalism's functioning in India."
+    },
+    {
+        "question": "How does decentralization in India promote local problem-solving?",
+        "answer": "Decentralization empowers local communities to address local problems more efficiently."
+    },
+    {
+        "question": "What is the role of Panchayat Samitis or Blocks in the Panchayati Raj system?",
+        "answer": "Panchayat Samitis or Blocks oversee groups of Gram Panchayats and coordinate local governance at the intermediate level."
+    },
+    {
+        "question": "How do Municipal Corporations contribute to urban governance in India?",
+        "answer": "Municipal Corporations play a significant role in governing larger urban areas, addressing urban issues, and providing essential services."
+    },
+    {
+        "question": "How has the Panchayati Raj system affected rural development in India?",
+        "answer": "The Panchayati Raj system has promoted rural development by involving local communities and addressing rural issues."
+    },
+    {
+        "question": "What is the role of Zilla Parishads in the Panchayati Raj system?",
+        "answer": "Zilla Parishads oversee Panchayat Samitis and ensure coordination and support at the district level in the Panchayati Raj system."
+    },
+    {
+        "question": "How does the three-tier system ensure local participation in decision-making?",
+        "answer": "The three-tier system allows local communities to actively participate in decision-making, reflecting their needs and preferences."
+    },
+    {
+        "question": "What are the key responsibilities of Gram Panchayats in rural governance?",
+        "answer": "Gram Panchayats are responsible for local decision-making, addressing rural issues, and improving rural development."
+    },
+    {
+        "question": "How does local government empower communities in India's federal system?",
+        "answer": "Local government empowers communities by granting them decision-making authority and addressing local issues effectively."
+    },
+    {
+        "question": "How is financial autonomy ensured for local government bodies in India?",
+        "answer": "Financial autonomy for local government bodies is guaranteed by specifying their sources of revenue in the Constitution."
+    },
+    {
+        "question": "How does the Panchayati Raj system promote local representation in rural governance?",
+        "answer": "The Panchayati Raj system promotes local representation by allowing elected representatives to address local issues."
+    },
+    {
+        "question": "What is the importance of regular elections for local government bodies in India?",
+        "answer": "Regular elections ensure that local government bodies remain democratic and accountable to the people."
+    },
+    {
+        "question": "How does the three-tier system affect the accountability of local government bodies in India?",
+        "answer": "The three-tier system ensures the accountability of local government bodies by enabling regular elections and representation."
+    },
+    {
+        "question": "How does the linguistic reorganization of states in India strengthen federalism?",
+        "answer": "The linguistic reorganization of states recognizes linguistic diversity and promotes linguistic and cultural representation."
+    },
+    {
+        "question": "What is the significance of reserved seats for marginalized groups in local government?",
+        "answer": "Reserved seats for marginalized groups ensure their representation and participation in local governance."
+    },
+    {
+        "question": "What are the subjects included in the \"Concurrent List\" in India's federal structure?",
+        "answer": "The \"Concurrent List\" includes subjects of common interest to both the Union and State Governments, allowing both levels to make laws."
+    },
+    {
+        "question": "How does the \"Concurrent List\" contribute to India's federal structure?",
+        "answer": "The \"Concurrent List\" reflects cooperative federalism, where both Union and State Governments can legislate on common subjects."
+    },
+    {
+        "question": "How does the three-tier system enhance local problem-solving in India?",
+        "answer": "The three-tier system empowers local communities to address local problems efficiently and effectively."
+    },
+    {
+        "question": "How has the Panchayati Raj system deepened democracy in India?",
+        "answer": "The Panchayati Raj system has deepened democracy by decentralizing power, ensuring local representation, and involving communities in governance."
+    }
+]
