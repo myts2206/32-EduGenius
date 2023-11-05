@@ -1,0 +1,362 @@
+[
+    {
+        "question": "What is the significance of a written constitution in a democracy?",
+        "options": [
+            "It has no significance",
+            "It provides a clear set of rules and principles for the government to follow",
+            "It promotes one-party rule",
+            "It increases regional disparities"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "How do political parties contribute to the functioning of a democracy?",
+        "options": [
+            "They suppress opposition parties",
+            "They increase corruption",
+            "They provide a way for people to choose their representatives and express their opinions",
+            "They centralize power in one party"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What role does the executive branch play in a democratic government?",
+        "options": [
+            "To write laws",
+            "To interpret the constitution",
+            "To enforce and administer laws",
+            "To review and nullify laws"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What does the term 'universal adult suffrage' mean in a democracy?",
+        "options": [
+            "Only certain adults can vote",
+            "All eligible adult citizens have the right to vote",
+            "No adults can vote",
+            "Only the wealthy can vote"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is the primary goal of power sharing in a diverse country?",
+        "options": [
+            "Promoting majority rule",
+            "Maintaining unity and harmony",
+            "Concentrating power in one group",
+            "Limiting democratic participation"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "How does the separation of powers in a democracy prevent the abuse of power?",
+        "options": [
+            "By concentrating all powers in one branch of government",
+            "By allowing each branch to check the others",
+            "By ignoring the constitution",
+            "By suppressing opposition parties"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is the significance of linguistic diversity in power sharing?",
+        "options": [
+            "It hinders power sharing",
+            "It promotes uniformity",
+            "It necessitates power sharing",
+            "It doesn't affect power sharing"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How does federalism contribute to the management of regional disparities in a country?",
+        "options": [
+            "By centralizing all power",
+            "By ignoring regional disparities",
+            "By allowing regions to manage their own affairs",
+            "By creating more regional disparities"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of the press in a democracy's system of checks and balances?",
+        "options": [
+            "To maintain a single-party system",
+            "To suppress dissenting views",
+            "To inform the public, expose government misconduct, and hold those in power accountable",
+            "To act as the executive branch of government"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How does proportional representation enhance political inclusivity?",
+        "options": [
+            "It favors major parties only",
+            "It ensures smaller parties have a chance to be represented",
+            "It doesn't impact political inclusivity",
+            "It promotes exclusivity"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is the role of an opposition party in a democracy?",
+        "options": [
+            "To silence dissenting voices",
+            "To work together with the ruling party",
+            "To provide an alternative to the ruling party, serve as a check on government actions, and represent dissenting views",
+            "To promote a one-party system"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How can the judiciary act as a check on the executive branch in a democracy?",
+        "options": [
+            "By ignoring the constitution",
+            "By having no role in the system of checks and balances",
+            "By reviewing and nullifying executive actions that are unconstitutional or violate citizens' rights",
+            "By controlling the media"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the purpose of a democratic election in a country?",
+        "options": [
+            "To establish a monarchy",
+            "To determine the price of goods",
+            "To choose representatives who will make decisions on behalf of the people",
+            "To ban political parties"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the significance of the rule of law in a democracy?",
+        "options": [
+            "It ensures that only the rich are governed by laws",
+            "It establishes that no one is above the law, and everyone, including the government, is subject to the law",
+            "It allows the government to change laws at will",
+            "It promotes authoritarianism"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "How does a democratic government protect the rights of minorities?",
+        "options": [
+            "It doesn't protect minority rights",
+            "It ensures that minorities have no rights",
+            "It guarantees certain rights to all individuals, regardless of their minority or majority status",
+            "It grants extra rights to the majority population"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of a constitution in a democracy?",
+        "options": [
+            "To give unlimited power to the government",
+            "To protect the rights and freedoms of citizens and provide a framework for the government",
+            "To create a one-party system",
+            "To limit the power of the judiciary"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "What is meant by the term 'public interest' in a democracy?",
+        "options": [
+            "It refers to the interests of a single individual",
+            "It signifies the interests of the government",
+            "It represents the well-being and rights of the general public",
+            "It excludes the rights of the majority population"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How can local governments contribute to the practice of federalism in a country?",
+        "options": [
+            "By concentrating all power at the national level",
+            "By abolishing local governments",
+            "By allowing regions or states to have their own governments and make decisions on local issues",
+            "By ignoring regional disparities"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of civil servants in a democracy?",
+        "options": [
+            "To make all decisions without consulting the government",
+            "To act as a check on the judiciary",
+            "To implement government policies and provide expertise in running the government",
+            "To replace elected representatives"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How do citizens participate in a democracy?",
+        "options": [
+            "They don't participate",
+            "They participate by ignoring the government",
+            "They participate by voting in elections, engaging in political discussions, and expressing their opinions",
+            "They participate by suppressing opposition parties"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of political leaders in a democracy?",
+        "options": [
+            "To make all decisions without consulting others",
+            "To centralize power in one party",
+            "To represent the interests of their constituents, make laws, and provide leadership",
+            "To prevent the creation of a constitution"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How does a democratic government ensure accountability to the public?",
+        "options": [
+            "By operating in secret without transparency",
+            "By holding no elections",
+            "By providing mechanisms for citizens to know what the government is doing and to hold it responsible for its actions",
+            "By ignoring the public"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the significance of the media in a democracy?",
+        "options": [
+            "To spread false information",
+            "To support a one-party system",
+            "To act as a check on government power by informing the public and providing a platform for different voices",
+            "To suppress freedom of speech"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How do citizens exercise their right to criticize the government in a democracy?",
+        "options": [
+            "They cannot criticize the government",
+            "They criticize the government through violent means",
+            "They criticize the government through peaceful means such as protests, demonstrations, and expressing their opinions",
+            "They are forced to praise the government"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of the legislature in a democratic government?",
+        "options": [
+            "To make laws, review the work of the judiciary, and represent the will of the people",
+            "To eliminate all laws",
+            "To enforce the law",
+            "To concentrate power in one branch of government"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "How does a democratic government ensure gender equality and the protection of women's rights?",
+        "options": [
+            "It promotes discrimination against women",
+            "It ignores women's rights",
+            "It ensures that all citizens, regardless of their gender, have equal rights and opportunities",
+            "It enforces gender-based discrimination"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of non-governmental organizations (NGOs) in a democracy?",
+        "options": [
+            "To suppress all voices",
+            "To promote violence",
+            "To provide a platform for citizen involvement, advocate for specific issues, and work independently of the government",
+            "To create a one-party system"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How does a democratic government manage economic disparities among its citizens?",
+        "options": [
+            "It exacerbates economic disparities",
+            "It ignores economic disparities",
+            "It implements policies to reduce economic disparities and ensure the well-being of all citizens",
+            "It concentrates wealth in the hands of a few"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of the judiciary in protecting the rights of citizens in a democracy?",
+        "options": [
+            "To violate citizens' rights",
+            "To have no role in protecting citizens' rights",
+            "To interpret and uphold the constitution, protect citizens' rights, and provide a mechanism for legal redress",
+            "To support authoritarian rule"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How does a democratic government handle issues related to religious and cultural diversity?",
+        "options": [
+            "It promotes discrimination and intolerance",
+            "It ignores religious and cultural diversity",
+            "It respects and protects the religious and cultural rights of all citizens",
+            "It suppresses religious and cultural practices"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of the police in a democracy?",
+        "options": [
+            "To violate citizens' rights",
+            "To suppress freedom of speech",
+            "To maintain law and order, protect citizens, and uphold the rule of law",
+            "To promote civil unrest"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How does a democratic government handle environmental issues?",
+        "options": [
+            "It promotes environmental destruction",
+            "It ignores environmental issues",
+            "It implements policies to protect the environment, promote sustainability, and address environmental concerns",
+            "It encourages environmental pollution"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of education in a democracy?",
+        "options": [
+            "To promote ignorance",
+            "To suppress education",
+            "To provide access to education for all citizens, promote informed citizenship, and develop critical thinking skills",
+            "To limit access to education"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How does a democratic government address the needs of the poor and vulnerable populations?",
+        "options": [
+            "It exacerbates poverty and vulnerability",
+            "It ignores the poor and vulnerable",
+            "It implements social welfare programs, poverty alleviation measures, and policies to support vulnerable populations",
+            "It concentrates wealth in the hands of the wealthy"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "What is the role of the military in a democracy?",
+        "options": [
+            "To suppress democratic movements",
+            "To control the government",
+            "To protect the country's security and defend against external threats under civilian control",
+            "To stage coups and take over the government"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How do democratic governments promote social and cultural rights?",
+        "options": [
+            "They suppress social and cultural rights",
+            "They ignore social and cultural rights",
+            "They implement policies to protect and promote the social and cultural rights of all citizens",
+            "They restrict social and cultural practices"
+        ],
+        "correct_option": 3
+    }
+]
