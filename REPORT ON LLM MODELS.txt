@@ -1,0 +1,32 @@
+REPORT ON LLM MODELS
+
+
+GPT2 Small Accuracy
+
+SIZE:
+32BIT -  0.462 GB
+8BIT  -   0.115 GB 
+ACCURACY - 54%
+ 
+Distilled GPT Accuracy
+
+SIZE:
+32BIT - 0.305GB
+8BIT  -  0.076GB
+ACCURACY - 46%
+
+
+Roberto Accuracy
+
+SIZE:
+32BIT -  1.1GB
+8BIT  -  0.355GB 
+ACCURACY - 67%
+
+
+LAAMA 2-7B CHAT
+
+SIZE:
+32BIT -  26.08GB
+8BIT  -  6.52GB
+ACCURACY - 77%
